@@ -12,4 +12,4 @@ Each program is a thin wrapper that exposes simulation or planning functions to 
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
